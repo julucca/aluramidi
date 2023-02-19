@@ -26,7 +26,9 @@ O desafio do projeto foi desenvolver a interatividade dos botões através do mo
 
 ## 🖥️ Acesso ao projeto
 
-[Clique aqui](https://curso-html-css-kappa.vercel.app/) para acessar o Alura Midi no seu navegador.
+[Clique aqui](https://aluramidi-mu.vercel.app/) para acessar o Alura Midi no seu navegador.
+
+Após acessar o projeto basta navegar com o mouse clicando nos botões para reproduzir os sons ou através do teclado com as teclas Tab, enter e espaço.
 
 
 ## 👩‍💻 Tecnologias utilizadas
