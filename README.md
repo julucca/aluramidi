@@ -28,8 +28,7 @@ O desafio do projeto foi desenvolver a interatividade dos botões através do mo
 
 [Clique aqui](https://aluramidi-mu.vercel.app/) para acessar o Alura Midi no seu navegador.
 
-Após acessar o projeto basta navegar com o mouse clicando nos botões para reproduzir os sons ou através do teclado com as teclas Tab, enter e espaço.
-
+Após acessar o projeto basta navegar com o mouse clicando nos botões para reproduzir os sons ou através do teclado com as teclas `Tab` e `Shift + Tab` para navegação e `enter` ou `espaço` para pressionar o botão.
 
 ## 👩‍💻 Tecnologias utilizadas
 
